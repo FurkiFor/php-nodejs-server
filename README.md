@@ -1,6 +1,6 @@
 # php-nodejs-server
 
-Example Node.js Php server
+Nodejs Tarafında Gerekli Olan Kütüphane ' node-php-server '
 
 
 npm install  
